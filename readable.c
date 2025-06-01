@@ -1,4 +1,4 @@
-/*
+/* source: https://burtleburtle.net/bob/c/readable.c
 ------------------------------------------------------------------------------
 readable.c: My random number generator, ISAAC.
 (c) Bob Jenkins, March 1996, Public Domain
